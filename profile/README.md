@@ -10,7 +10,7 @@ GitHub is home to many of our open source contributions from the {dm} and {DBI} 
 
 ## R Consulting & Management of Data Science Infrastructure
 
-At cynkra we support domestic and international customers to pick the right tools, implement solutions and maintan their systems. 
+At cynkra we support domestic and international customers to pick the right tools, implement solutions and maintain their systems. 
 If you want to learn more about our company and the people behind it visit [our website](https://cynkra.com) and/or follow us on [twitter](https://twitter.com/cynkra_com).
 
 
