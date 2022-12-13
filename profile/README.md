@@ -1,4 +1,4 @@
-# Hey, We're cynkra! 
+# Hey, we're cynkra! 
 
 <p align="center">
   <img width="1200px" alt="We're cynkra - development construction site jpg" src="docs/src/readme.jpeg">
