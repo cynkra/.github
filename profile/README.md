@@ -1,7 +1,7 @@
 # Hey, we're cynkra! 
 
 <p align="center">
-  <img width="1200px" alt="We're cynkra - development construction site jpg" src="docs/src/readme.jpeg">
+  <img width="1200px" alt="We're cynkra - development construction site jpg" src="../docs/src/readme.jpeg">
 </p>
 
 [cynkra](https://cynkra.com) is a Zurich based data science company enthusiastic about open source software and the [R](https://r-project.org) ecosystem in particular. 
